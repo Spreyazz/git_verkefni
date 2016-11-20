@@ -16,3 +16,5 @@ Git spurningar og svör
 	c) git diff commit1 commit2
 
 4. man allat fyrri útgáfur og gerir þér kleyft að fara alltaf til baka
+
+5. fleirri enn einn geta unnið saman og án þess að fucka upp fyrir hvor öðrum / version control
