@@ -14,3 +14,5 @@ Git spurningar og svör
 3.  a) git diff
 	b) git diff --staged
 	c) git diff commit1 commit2
+
+4. man allat fyrri útgáfur og gerir þér kleyft að fara alltaf til baka
