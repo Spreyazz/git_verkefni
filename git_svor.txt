@@ -18,3 +18,5 @@ Git spurningar og svör
 4. man allat fyrri útgáfur og gerir þér kleyft að fara alltaf til baka
 
 5. fleirri enn einn geta unnið saman og án þess að fucka upp fyrir hvor öðrum / version control
+
+6. Ég held að ég mun gera það í hvert skipti sem að ég mun taka við verkefni til að fá alltaf að sjá hvað er öðruvísi við sitt hvort verkefnið og fundið best leiðina til að blanda þeim saman.
