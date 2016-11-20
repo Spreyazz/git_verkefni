@@ -24,3 +24,5 @@ Git spurningar og svör
 7. WD er hvar þú ert að vinna í, SA leyfir þér að breyta endalaust eitthverju sem er til, R geymsla yfir eitthvað sem búið er að setja inn
 
 8. Það er sniðugt að nota eitt branch fyrir hvert og eitt verkefni, svo að það sé hægt að sjá hvert og eitt verkefni inn á GitHub.
+
+Brynjólfur Axel Jóhannesson
